@@ -1,5 +1,6 @@
 /venv
 .env
+data/*
 !data/input/.keep
 !data/output/.keep
 **/__pycache__
